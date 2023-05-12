@@ -1,0 +1,326 @@
+﻿car_brand,car_model,car_type
+audi,3,Sedan
+audi,a4,Sedan
+audi,a6,Sedan
+audi,a7,Sedan
+bmw,1,Sedan
+bmw,3,Sedan
+bmw,4,Sedan
+bmw,5,Sedan
+bmw,6,Sedan
+bmw,baleno,Hatchback
+bmw,grand escudo,SUV
+bmw,grand i10,Hatchback
+bmw,h-1,Van
+bmw,mobilio,MPV
+bmw,slk,Convertible
+bmw,sotana,Truck
+bmw,x1,SUV
+bmw,x3,SUV
+bmw,x5,SUV
+chevrolet,aveo,Sedan
+chevrolet,c,SUV
+chevrolet,captiva,SUV
+chevrolet,confero,MPV
+chevrolet,grand livina,MPV
+chevrolet,lancer,Sedan
+chevrolet,s515,Truck
+chevrolet,spin,MPV
+chevrolet,splash,Hatchback
+chevrolet,trailblazer,SUV
+chevrolet,trax,SUV
+chevrolet,traxy,MPV
+chevrolet,trooper,SUV
+chevrolet,x-over,SUV
+chevrolet,x4,SUV
+daihatsu,avanza,MPV
+daihatsu,ayla,Hatchback
+daihatsu,brio,Hatchback
+daihatsu,calya,MPV
+daihatsu,gran max,Truck
+daihatsu,luxio,MPV
+daihatsu,sienta,MPV
+daihatsu,sigra,MPV
+daihatsu,sirion,Hatchback
+daihatsu,taruna,SUV
+daihatsu,terios,SUV
+daihatsu,xenia,MPV
+datsun,cross,SUV
+datsun,go panca,Hatchback
+datsun,go+ panca,MPV
+ford,alphard,Van
+ford,civic,Sedan
+ford,ecosport,SUV
+ford,elgrand,Van
+ford,everest,SUV
+ford,fiesta,Hatchback
+ford,fortuner,SUV
+ford,grand livina,MPV
+ford,march,Hatchback
+ford,range rover evoque,SUV
+ford,ranger,Truck
+ford,teana,Sedan
+fordta,kijang innova,MPV
+fordta,yaris,Hatchback
+honda,accord,Sedan
+honda,avanza,MPV
+honda,br-v,SUV
+honda,brio,Hatchback
+honda,c-hr,SUV
+honda,c-trail,SUV
+honda,city,Sedan
+honda,civic,Sedan
+honda,cr-v,SUV
+honda,cr-z,Coupe
+honda,e,Electric
+honda,elysion,MPV
+honda,freed,MPV
+honda,hr-v,SUV
+honda,innova,MPV
+honda,jazz,Hatchback
+honda,mobilio,MPV
+honda,odyssey,MPV
+honda,panther,MPV
+honda,serena,MPV
+honda,stream,Wagon
+honda,sx4,SUV
+honda,vellfire,Van
+honda,x-trail,SUV
+hyundai,--v,SUV
+hyundai,gl,Sedan
+hyundai,glo,Sedan
+hyundai,grand avega,Hatchback
+hyundai,grand i10,Hatchback
+hyundai,grand livina,MPV
+hyundai,h-1,Van
+hyundai,h-4,Truck
+hyundai,h-7,MPV
+hyundai,i20,Hatchback
+hyundai,panther,MPV
+hyundai,santa fe,SUV
+hyundai,slk,Sedan
+hyundai,trailblazer,SUV
+hyundai,tucson,SUV
+isuzu,e,Truck
+isuzu,eclipse cross,SUV
+isuzu,elf,Truck
+isuzu,grand avega,Hatchback
+isuzu,mu-7,SUV
+isuzu,mu-x,SUV
+isuzu,mu-x6,SUV
+isuzu,pajero sport,SUV
+isuzu,panther,MPV
+isuzu,sorento,SUV
+isuzu,traga,Truck
+isuzu,trax,SUV
+isuzu,tucson,SUV
+isuzu,x-trail,SUV
+kia,a6,Sedan
+kia,a7,Sedan
+kia,biante,MPV
+kia,c,Hatchback
+kia,cx-3,SUV
+kia,cx-9,SUV
+kia,go+ panca,Hatchback
+kia,nav1,Van
+kia,picanto,Hatchback
+kia,rio,Sedan
+kia,sedona,MPV
+kia,seltos,SUV
+kia,so,SUV
+kia,sorento,SUV
+kia,sportage,SUV
+kia,tiguan,SUV
+land rover,fiesta,Hatchback
+land rover,range rover evoque,SUV
+land rover,range roverer,SUV
+mazda,2,Hatchback
+mazda,3,Sedan
+mazda,6,Sedan
+mazda,8,MPV
+mazda,a6,Sedan
+mazda,almaz,SUV
+mazda,biante,MPV
+mazda,cx-3,SUV
+mazda,cx-30,SUV
+mazda,cx-5,SUV
+mazda,cx-50,SUV
+mazda,cx-7,SUV
+mazda,cx-9,SUV
+mazda,grand livina,MPV
+mazda,march,Hatchback
+mazda,mu-7,SUV
+mazda,x3,SUV
+mercedes-benz,200e,Sedan
+mercedes-benz,230e,Sedan
+mercedes-benz,b,Hatchback
+mercedes-benz,c,Sedan
+mercedes-benz,cla,Sedan
+mercedes-benz,colt l300,Van
+mercedes-benz,e,Sedan
+mercedes-benz,elf,Truck
+mercedes-benz,ga,Truck
+mercedes-benz,gl,SUV
+mercedes-benz,gla,SUV
+mercedes-benz,gle,SUV
+mercedes-benz,hr,Truck
+mercedes-benz,hr-v,SUV
+mercedes-benz,k,Hatchback
+mercedes-benz,lancer,Sedan
+mercedes-benz,ml,SUV
+mercedes-benz,slk,Convertible
+mercedes-benz,trailblazer,SUV
+mini,cooper,Hatchback
+mini,cooper countryman,SUV
+mini,cooper paceman,SUV
+mini,everest,SUV
+mini,tiguan,SUV
+mini,trailblazer,SUV
+mitsubishi,2,Hatchback
+mitsubishi,colt fe,Truck
+mitsubishi,colt l200,Truck
+mitsubishi,colt l300,Truck
+mitsubishi,colt l309,Truck
+mitsubishi,colt l60,Truck
+mitsubishi,colt t120ss,Truck
+mitsubishi,cx-3,SUV
+mitsubishi,cx-5,SUV
+mitsubishi,delica,Van
+mitsubishi,e,MPV
+mitsubishi,eclipse cross,SUV
+mitsubishi,grandis,MPV
+mitsubishi,lancer,Sedan
+mitsubishi,mirage,Hatchback
+mitsubishi,outlander,SUV
+mitsubishi,outlander sport,SUV
+mitsubishi,pajero,SUV
+mitsubishi,pajero sport,SUV
+mitsubishi,slk,Sedan
+mitsubishi,trax,SUV
+mitsubishi,triton,Truck
+mitsubishi,xpander,MPV
+nissan,2,Hatchback
+nissan,city,Sedan
+nissan,cr-v,SUV
+nissan,elgrand,Van
+nissan,ertiga,MPV
+nissan,evalia,Van
+nissan,fiesta,Hatchback
+nissan,freed,MPV
+nissan,gran max,Truck
+nissan,grand livina,MPV
+nissan,hr-v,SUV
+nissan,juke,SUV
+nissan,karimun,Hatchback
+nissan,livina,MPV
+nissan,march,Hatchback
+nissan,mobilio,MPV
+nissan,serena,Van
+nissan,sienta,MPV
+nissan,teana,Sedan
+nissan,terra,SUV
+nissan,terrano,SUV
+nissan,trailblazer,SUV
+nissan,x-trail,SUV
+nissan,xenia,MPV
+ota,voxy,MPV
+peugeot,207,Hatchback
+peugeot,c,MPV
+peugeot,ertiga,MPV
+renault,kwid,Hatchback
+renault,triber,MPV
+subaru,xv,SUV
+subaru,xv sport,SUV
+suzuki,a7,Hatchback
+suzuki,aerio,Sedan
+suzuki,apv,MPV
+suzuki,aveo,Sedan
+suzuki,baleno,Hatchback
+suzuki,camry,Sedan
+suzuki,captiva,SUV
+suzuki,carry,Van
+suzuki,city,Sedan
+suzuki,cortez,MPV
+suzuki,cr-v,SUV
+suzuki,ertiga,MPV
+suzuki,grand escudo,SUV
+suzuki,grand vitara,SUV
+suzuki,ignis,Hatchback
+suzuki,karimun,Hatchback
+suzuki,katana,SUV
+suzuki,kijang innova,MPV
+suzuki,raize,SUV
+suzuki,ranger,SUV
+suzuki,rush,SUV
+suzuki,serena,MPV
+suzuki,splash,Hatchback
+suzuki,swift,Hatchback
+suzuki,sx4,Sedan
+suzuki,teana,Sedan
+suzuki,trailblazer,SUV
+suzuki,vellfire,MPV
+suzuki,x-over,SUV
+suzuki,x-trail,SUV
+suzuki,xenia,MPV
+suzuki,xl7,SUV
+tata,kijang innova,MPV
+toyota,agya,Hatchback
+toyota,alphard,MPV
+toyota,altis,Sedan
+toyota,avanza,MPV
+toyota,baleno,Hatchback
+toyota,biante,MPV
+toyota,c-hr,SUV
+toyota,calya,MPV
+toyota,camry,Sedan
+toyota,captiva,SUV
+toyota,city,Sedan
+toyota,corolla,Sedan
+toyota,corolla altis,Sedan
+toyota,corolla cross,SUV
+toyota,cortez,MPV
+toyota,cx-5,SUV
+toyota,cx-9,SUV
+toyota,dyna,Truck
+toyota,e,Sedan
+toyota,elgrand,MPV
+toyota,etios,Sedan
+toyota,etios valco,Hatchback
+toyota,fortuner,SUV
+toyota,grand livina,MPV
+toyota,harrier,SUV
+toyota,hiace,Van
+toyota,hilux,Truck
+toyota,innova,MPV
+toyota,kijang,MPV
+toyota,kijang innova,MPV
+toyota,kijang super,MPV
+toyota,land cruiser,SUV
+toyota,limo,Van
+toyota,livina,MPV
+toyota,nav1,MPV
+toyota,outlander sport,SUV
+toyota,raize,SUV
+toyota,rush,SUV
+toyota,serena,MPV
+toyota,sienta,MPV
+toyota,sigra,MPV
+toyota,t livina,MPV
+toyota,vellfire,MPV
+toyota,vios,Sedan
+toyota,voxy,MPV
+toyota,wber,Van
+toyota,wish,MPV
+toyota,x-trail,SUV
+toyota,xenia,MPV
+toyota,yaris,Hatchback
+volkswagen,polo,Hatchback
+volkswagen,splash,Hatchback
+volkswagen,tiguan,SUV
+wuling,2,Hatchback
+wuling,almaz,SUV
+wuling,c,MPV
+wuling,confero,MPV
+wuling,cortez,MPV
+wuling,jazz,MPV
+wuling,mobilio,MPV
