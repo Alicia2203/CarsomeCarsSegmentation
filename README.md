@@ -5,7 +5,7 @@
 2. [Project Environment Info](#ProjectEnvironmentInfo)
 3. [Python Libraries](#PythonLibraries)
 4. [Dataset Information](#DatasetInformation)
-5. [Data Exploration](#data)
+5. [Methodology](#Methodology)
 6. [Implementation](#model)
 7. [Results](#results)
 
@@ -65,19 +65,33 @@ By leveraging data-driven insights, Carsome can make informed decisions on which
 	- the starting bid price of the car in an auction   
 	- The reserve price for the car listing (i.e. the minimum amount the seller is willing to accept)
 
-### Methodology <a name="PythonLibraries"></a>
+### Methodology <a name="Methodology"></a>
 1. **Business understanding**:     
 To understand the business problem that needs to be solved, which was to segment cars based on their features to better understand their value and demand in the market.
 
-2. **Data understanding**:
+2. **Data understanding**:   
 Exploratory Data Analysis
 
-3. **Data preparation**: 
-   removing duplicate rows, dealing with missing values. deriving features, selecting relevant features, and scaling numerical data for model input
+3. **Data preparation**:    
+removing duplicate rows, dealing with missing values. deriving features, selecting relevant features, and scaling numerical data for model input
 
-4. **Modeling**: k-prototype was selected as our cluster model. Elbow Plot and KneeLocator was used in finding the optimal number of clusters
+4. **Modeling**:    
+k-prototype was selected as our cluster model. Elbow Plot and KneeLocator was used in finding the optimal number of clusters
 
-5. **Model evaluation**: Cluster Profilling
+5. **Model evaluation**:    
+Cluster Profilling
 
-### Results
+### Results <a name="Methodology"></a>
+![clusterprofile](https://github.com/Alicia2203/CarsomeCarsSegmentation/blob/main/Cluster%20Profile.png)
 
+**Cluster 0**:   
+This cluster comprises the largest percentage of cars (46.8%) where represented cars are predominantly SUVs, followed by MPVs and hatchbacks, and with automatic transmission and a medium price tier. The median reserve price is 119,500,000, which is lower than the median reserve prices of Clusters 2 and 3. The median age of the cars is 6 years, and ranging from 2 to 12 years. This cluster also has the lowest median car engine size at 1.5. Carsome could consider targeting this cluster for buyers who are looking for low-to-mid, relatively new, SUVs and MPVs. 
+
+**Cluster 1**:   
+This cluster has the second-highest number of cars, and the majority of them are MPVs, followed by sedans and hatchbacks, with both automatic and manual transmission options. The median reserve price is 65,000,000, which (like Cluster 0) is significantly lower than the median reserve prices of Clusters 2 and 3. The median car age is 12 years, which is the highest among all clusters. The median age of the cars in this cluster is 12 years, and the engine size is 1.5. This cluster has a relatively balanced distribution of transmission types, with slightly more automatic cars. Carsome could consider targeting this cluster for buyers who prefer MPVs and sedans with either transmission options, relatively lower prices and relatively older.
+
+**Cluster 2**:   
+This cluster represents cars that are predominantly SUVs and MPVs, with automatic transmission and a medium to high price tier. The median reserve price is 140,000,000, which is the highest among all clusters. The median age of the cars in this cluster is 11 years, which is higher than Cluster 0 but lower than Cluster 1. This cluster also has the largest median car engine size at 2.4. Carsome could consider targeting this cluster for customers who prefer SUVs and MPVs with automatic transmission, larger engines and are willing to pay a higher price for a relatively newer car.
+
+**Cluster 3**:   
+This cluster has the lowest number of cars. It represents cars that are predominantly MPVs and SUVs, with automatic transmission and a high price tier. The median reserve price is 370,000,000, which is significantly higher than the median reserve prices of Clusters 0 and 1. The median car age is 5 years, which is the lowest among all clusters. This cluster also has a high proportion of automatic cars and luxurious brands. Carsome could consider targeting this cluster for buyers who are looking for high-end, relatively new MPVs and SUVs from luxurious brands.
