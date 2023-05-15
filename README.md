@@ -6,7 +6,7 @@
 3. [Python Libraries](#PythonLibraries)
 4. [Dataset Information](#DatasetInformation)
 5. [Methodology](#Methodology)
-6. [Implementation](#model)
+6. [Model](#model)
 7. [Results](#results)
 
 ### Project Overview <a name="ProjectOverview"></a> 
@@ -81,7 +81,14 @@ k-prototype was selected as our cluster model. Elbow Plot and KneeLocator was us
 5. **Model evaluation**:    
 Cluster Profilling
 
+### Model <a name="model"></a>
+K-prototype
+
+
 ### Results <a name="Methodology"></a>
+![Cluster Distribution](https://github.com/Alicia2203/CarsomeCarsSegmentation/blob/main/cluster%20dist.png)
+
+
 ![clusterprofile](https://github.com/Alicia2203/CarsomeCarsSegmentation/blob/main/Cluster%20Profile.png)
 
 **Cluster 0**:   
@@ -95,3 +102,5 @@ This cluster represents cars that are predominantly SUVs and MPVs, with automati
 
 **Cluster 3**:   
 This cluster has the lowest number of cars. It represents cars that are predominantly MPVs and SUVs, with automatic transmission and a high price tier. The median reserve price is 370,000,000, which is significantly higher than the median reserve prices of Clusters 0 and 1. The median car age is 5 years, which is the lowest among all clusters. This cluster also has a high proportion of automatic cars and luxurious brands. Carsome could consider targeting this cluster for buyers who are looking for high-end, relatively new MPVs and SUVs from luxurious brands.
+
+![SHAP](https://github.com/Alicia2203/CarsomeCarsSegmentation/blob/main/shap.png)
