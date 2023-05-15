@@ -131,5 +131,5 @@ This cluster has the lowest number of cars. It represents cars that are predomin
 -   Cluster 2 (Class 2) is primarily characterized by cars with larger engines, with a mix of car types. This suggests that customers who are looking for more powerful cars or specific car types may be drawn to this cluster.
 -   Cluster 3 (Class 3) is characterized by high reserve prices, which suggests that these cars are more expensive and may appeal to customers who are looking for luxurious or high-end vehicles.
 
-
-
+## Notebook
+[Code in Notebook](https://github.com/Alicia2203/CarsomeCarsSegmentation/blob/main/CWB%20-%20Carsome-Problem%202%20-%20Cars%20Segmentation.ipynb)
