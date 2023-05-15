@@ -87,6 +87,8 @@ K-prototype is a clustering algorithm that combines the K-means algorithm for nu
 
 Elbow Plot and KneeLocator was used in finding the optimal number of clusters. 
 
+[elbow plot](https://github.com/Alicia2203/CarsomeCarsSegmentation/blob/main/elbow.png)
+
 Both plot shows that 4 is the optimal cluster number
 
 
