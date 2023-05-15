@@ -91,6 +91,7 @@ Both plot shows that 4 is the optimal cluster number
 
 
 ## Results <a name="Methodology"></a>
+### Cluster Distribution
 ![Cluster Distribution](https://github.com/Alicia2203/CarsomeCarsSegmentation/blob/main/cluster%20dist.png)
 
 - Cluster 0 - 14217 (46.8%)  
@@ -100,25 +101,26 @@ Both plot shows that 4 is the optimal cluster number
 
 ![clusterprofile](https://github.com/Alicia2203/CarsomeCarsSegmentation/blob/main/Cluster%20Profile.png)
 
-**Cluster 0 - Newer Cheaper Cars**:   
+### Cluster Profilling
+#### **Cluster 0 - Newer Cheaper Cars**:   
 This cluster comprises the largest percentage of cars (46.8%) where represented cars are predominantly SUVs, followed by MPVs and hatchbacks, and with automatic transmission and a medium price tier. The median reserve price is 119,500,000, which is lower than the median reserve prices of Clusters 2 and 3. The median age of the cars is 6 years, and ranging from 2 to 12 years. This cluster also has the lowest median car engine size at 1.5. 
 
-_Recommendation_: Carsome could consider targeting this cluster for buyers who are looking for low-to-mid, relatively new, SUVs and MPVs. 
+**_Recommendation_**: Carsome could consider targeting this cluster for buyers who are looking for low-to-mid, relatively new, SUVs and MPVs. 
 
-**Cluster 1 - Older Cheapest Cars**:   
+#### **Cluster 1 - Older Cheapest Cars**:   
 This cluster has the second-highest number of cars, and the majority of them are MPVs, followed by sedans and hatchbacks, with both automatic and manual transmission options. The median reserve price is 65,000,000, which (like Cluster 0) is significantly lower than the median reserve prices of Clusters 2 and 3. The median car age is 12 years, which is the highest among all clusters. The median age of the cars in this cluster is 12 years, and the engine size is 1.5. This cluster has a relatively balanced distribution of transmission types, with slightly more automatic cars. 
 
-_Recommendation_: Carsome could consider targeting this cluster for buyers who are looking for more budget-friendly cars, regardless of car age, car engine, car type and car transmission. 
+**_Recommendation_**: Carsome could consider targeting this cluster for buyers who are looking for more budget-friendly cars, regardless of car age, car engine, car type and car transmission. 
 
-**Cluster 2 -  Powerful Mixed Cars**:   
+#### **Cluster 2 -  Powerful Mixed Cars**:   
 This cluster represents cars that are predominantly SUVs and MPVs, with automatic transmission and a medium to high price tier. The median reserve price is 140,000,000, which is the highest among all clusters. The median age of the cars in this cluster is 11 years, which is higher than Cluster 0 but lower than Cluster 1. This cluster also has the largest median car engine size at 2.4. 
 
-_Recommendation_: Carsome could consider targeting this cluster for customers who prefer SUVs, MPVs and other more powerful cars with automatic transmission, larger engines and are willing to pay a higher price for a relatively newer car.
+**_Recommendation_**: Carsome could consider targeting this cluster for customers who prefer SUVs, MPVs and other more powerful cars with automatic transmission, larger engines and are willing to pay a higher price for a relatively newer car.
 
-**Cluster 3 - Newer High End Cars**:   
+#### **Cluster 3 - Newer High End Cars**:   
 This cluster has the lowest number of cars. It represents cars that are predominantly MPVs and SUVs, with automatic transmission and a high price tier. The median reserve price is 370,000,000, which is significantly higher than the median reserve prices of Clusters 0 and 1. The median car age is 5 years, which is the lowest among all clusters. This cluster also has a high proportion of automatic cars and luxurious brands. 
 
-_Recommendation_: Carsome could consider targeting this cluster for buyers who are looking for high-end, relatively new MPVs and SUVs from luxurious brands.
+**_Recommendation_**: Carsome could consider targeting this cluster for buyers who are looking for high-end, relatively new MPVs and SUVs from luxurious brands.
 
 ### SHAP Plot
 - To understand which features are contributing the most to the separation of the clusters.
